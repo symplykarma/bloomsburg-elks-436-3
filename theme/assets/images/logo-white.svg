@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="6"></circle>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M43.6806085,10.260517 L37.8893223,16.0518032 C35.1302956,11.2408389 29.943617,8 24,8 C15.163444,8 8,15.163444 8,24 C8,32.836556 15.163444,40 24,40 C29.9744524,40 35.1840919,36.7254471 37.9320673,31.8731928 L43.7289632,37.6700887 C39.395363,43.9126604 32.1750061,48 24,48 C10.745166,48 0,37.254834 0,24 C0,10.745166 10.745166,5.32907052e-14 24,5.32907052e-14 C32.1446753,5.32907052e-14 39.341772,4.05706617 43.6806085,10.260517 Z" id="icon" fill="#FFFFFF"></path>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="dot" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>
